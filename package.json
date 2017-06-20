@@ -1,7 +1,7 @@
 {
-  "name": "hyper-warcraft",
+  "name": "hyper-theme",
   "version": "0.0.1",
-  "description": "Custom Hyper themes based on the Warcraft franchise.",
+  "description": "Custom Hyper theme template.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,6 @@
   "keywords": [
     "hyper",
     "hyperterm",
-    "hyper-warcraft",
     "hyper-theme"
   ],
   "author": {
