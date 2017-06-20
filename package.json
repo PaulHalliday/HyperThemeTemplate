@@ -1,0 +1,24 @@
+{
+  "name": "hyper-warcraft",
+  "version": "0.0.1",
+  "description": "Custom Hyper themes based on the Warcraft franchise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper-warcraft",
+    "hyper-theme"
+  ],
+  "author": {
+    "name": "Paul Halliday",
+    "email": "hello@paulhalliday.io",
+    "url": "https://paulhalliday.io"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "home-dir": "^1.0.0"
+  }
+}
